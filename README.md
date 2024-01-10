@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif
+![logo](C:\Users\Admin\Downloads\Black Minimal Motivation Quote LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A Passionate Tech Enthusiast</h3>
 <img align="right" alt="Coding" Width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
